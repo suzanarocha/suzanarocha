@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Suzana Rocha
 -  Hoje trabalho como jovem aprendiz administrativo
 -  Estudando Engenharia da computação
--  Pronouns: ela/dela
 ##
 
 <div>
