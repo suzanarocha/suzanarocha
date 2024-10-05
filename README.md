@@ -1,5 +1,4 @@
-## Olá! Eu sou a Suzana Rocha
--  Hoje trabalho como jovem aprendiz administrativo
+## Olá! Eu sou Suzana Rocha
 -  Estudando Engenharia da computação
 
 <div>
